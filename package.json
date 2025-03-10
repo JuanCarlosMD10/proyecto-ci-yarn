@@ -1,0 +1,14 @@
+{
+  "name": "proyecto-ci-yarn",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/JuanCarlosMD10/proyecto-ci-yarn.git",
+  "author": "JuanCarlosMD10 <167012995+JuanCarlosMD10@users.noreply.github.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+"scripts": {
+ "test": "jest"
+} 
+}
